@@ -42,7 +42,7 @@ Plaintext
 
 1. Setup Backend   
     - **Clone the repository**   
-    ``git clone https://github.com/YOUR_USERNAME/Safe-Surfer.git``
+    ``git clone https://github.com/Mohd-Saquib007/Safe-Surfer-Phishing-Detector.git``
 
     - **Navigate to backend**   
     ``cd backend``
