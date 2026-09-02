@@ -107,7 +107,7 @@ def predict():
 
     # 4. Strict Threshold: Agar 20% bhi shak hai, toh phishing bolo
     # Standard 0.5 hota hai, hum 0.2 ya 0.3 use karenge security ke liye
-    if phishing_prob > 0.20: 
+    if phishing_prob > 0.4679: 
         result = "Phishing"
     else:
         result = "Safe"
